@@ -1,0 +1,25 @@
+attribute,label
+clinical_efficacy,Clinical efficacy
+speed_of_onset,Speed of onset
+durability_of_response,Durability of response
+safety_profile,Safety profile
+tolerability,Tolerability / side effects
+drug_interactions,Low drug-interaction risk
+dosing_convenience,Dosing convenience
+ease_of_administration,Ease of administration
+formulary_coverage,Formulary coverage
+out_of_pocket_cost,Affordable out-of-pocket cost
+prior_auth_ease,Ease of prior authorisation
+availability_in_stock,Product availability / stock
+patient_support_program,Patient support programme
+adherence_tools,Adherence tools and reminders
+rep_knowledge,Field rep knowledge
+medical_info_responsiveness,Medical information responsiveness
+educational_materials,Educational materials
+real_world_evidence,Real-world evidence
+guideline_endorsement,Guideline endorsement
+peer_recommendation,Peer recommendation
+value_for_money,Value for money
+cost_effectiveness_data,Cost-effectiveness data
+company_reputation,Company reputation
+digital_resources,Digital resources
